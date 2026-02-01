@@ -8,7 +8,7 @@
   <li>🚀 Experienced in developing scalable back-end systems & secure REST/GraphQL APIs.</li>
   <li>🛢️ Proficient in working with SQL & NoSQL databases (MySQL, MongoDB, Firebase).</li>
   <li>📚 Constantly learning, experimenting, and pushing boundaries with new technologies.</li>
-</ul
+</ul>
 
 <h3 align="left">🛠️ Tech Stack & Tools</h3>
 
