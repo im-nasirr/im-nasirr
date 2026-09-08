@@ -95,7 +95,6 @@ to production backends, databases, APIs, cloud infrastructure, and AI integratio
 </div>
 
 ---
-
 ## 🤖 AI & Modern Product Development
 
 I'm increasingly working on products where **AI is part of the actual product architecture**, not just a chatbot added on top.
